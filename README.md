@@ -22,7 +22,7 @@
  ```XML
 dependencies {
   ...
-  implementation("io.github.cpsbiz:ssac3:0.9.2")
+  implementation("io.github.cpsbiz:ssac3:0.9.4")
   ...
 }
 ```
